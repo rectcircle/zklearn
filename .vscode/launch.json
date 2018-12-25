@@ -1,0 +1,18 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - ZKReentrantLock",
+			"request": "launch",
+			"mainClass": "cn.rectcircle.zklearn.ZKReentrantLock",
+			"projectName": "zklearn"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - ZKHelloWorld",
+			"request": "launch",
+			"mainClass": "cn.rectcircle.zklearn.ZKHelloWorld",
+			"projectName": "zklearn"
+		}
+	]
+}
